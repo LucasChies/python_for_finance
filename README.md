@@ -1,2 +1,2 @@
 # python_for_finance
-Repositorio de códigos python criados e utilizados para mercado financeiro
+This is a portfolio of python scripts created and used for the financial market
